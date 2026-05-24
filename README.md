@@ -22,10 +22,10 @@ It helps users record, view, and calculate their daily expenses using a CSV file
 - DateTime Module  
 
 ## 📂 Project Structure
-expense-tracker/
-│── main.py
-│── expenses.csv (auto-created after running program)
-│── README.md
+  -expense-tracker
+  -main.py
+  -expenses.csv (auto-created after running program)
+  -README.md
 
  ## 📊 Output Example
 Date        | Description | Amount
