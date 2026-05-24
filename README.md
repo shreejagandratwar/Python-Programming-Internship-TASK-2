@@ -24,7 +24,7 @@ It helps users record, view, and calculate their daily expenses using a CSV file
 ## 📂 Project Structure
   -expense-tracker
   -main.py
-  -expenses.csv (auto-created after running program)
+  -expenses.csv
   -README.md
 
  ## 📊 Output Example
